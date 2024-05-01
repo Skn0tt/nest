@@ -70,7 +70,7 @@
     "tslib": "1.11.1"
   },
   "devDependencies": {
-    "@codechecks/client": "0.1.10",
+    "@codechecks/client": "0.1.12",
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-angular": "8.3.4",
     "@grpc/proto-loader": "0.5.4",
